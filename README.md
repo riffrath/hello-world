@@ -1,2 +1,3 @@
 # hello-world
-Some kind of storage I think
+This is some kind of storage I think.
+I am so confuse. Complete computer noob. This much computerness is scaring me...
